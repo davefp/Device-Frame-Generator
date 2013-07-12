@@ -2,7 +2,7 @@
 
 ## Device Frame Generator
 The device frame generator allows you to quickly wrap your app screenshots in real device artwork. This provides better visual context for your app screenshots on your web site or in other promotional materials.
-Get the app from the [Google Play Store](2).
+Get the app from the [Google Play Store](https://play.google.com/store/apps/details?id=com.f2prateek.dfg).
 
 ![Barcode][3]
 
@@ -51,5 +51,4 @@ A minimal form of attribution would be to mention in your application's source p
 For any bugs and issues, please post to the [bug tracker](https://github.com/f2prateek/Device-Frame-Generator/issues?state=open) or on [twitter](https://twitter.com/f2prateek).
 
 [1]: https://raw.github.com/f2prateek/Device-Frame-Generator/master/art/feature-graphic.fw.png
-[2]: https://play.google.com/store/apps/details?id=com.f2prateek.dfg
 [3]: https://raw.github.com/f2prateek/Device-Frame-Generator/master/art/play_store_barcode.png
